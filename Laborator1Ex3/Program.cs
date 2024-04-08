@@ -3,9 +3,6 @@
 //tastaura
 
 
-
-using System.Numerics;
-
 Console.WriteLine("Scrieti un numar:");
 BigInteger numar = BigInteger.Parse(Console.ReadLine());
 
